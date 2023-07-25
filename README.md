@@ -1,4 +1,9 @@
-### Hi there 👋
+### woah welcome to my super epic profile!!
+im currently working on a game cant tell you the idea sadly,
+
+i also have a yt channel
+
+https://www.youtube.com/channel/UCDfan-aLQvzptzeiSx1d_1A
 
 <!--
 **doom699/doom699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
