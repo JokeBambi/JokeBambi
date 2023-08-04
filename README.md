@@ -1,20 +1,28 @@
-### woah welcome to my epic profile
+## woah welcome to my epic profile
 im soon to be a gamedev, fnf fan and more yeah
 
-my gamebanana is Joke Bambi (https://gamebanana.com/members/2467263)
+## contact links
+Gamebanana: https://gamebanana.com/members/2467263
 
-and my yt link is (https://www.youtube.com/channel/UCDfan-aLQvzptzeiSx1d_1A)
+YT: https://www.youtube.com/channel/UCDfan-aLQvzptzeiSx1d_1A
 
 you can subscribe idk if you want to but ok
 
-he/him
+## about me
+he/him 
 
-i like kitkat bar
+i like kitkat bar 
+
+dave and bambi fan (nice 3.5!)
+
+i love pizza tower even tho i never played it yeah
+<!-- useless stuff !-->
+
+
 <!--
 **doom699/doom699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
