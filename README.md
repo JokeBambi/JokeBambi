@@ -16,6 +16,14 @@ you can subscribe idk if you want to but ok
 * haxe is kinda easy. well not from scratch
 * fun fact: psych engine is easy.
 * fun fact: there is a commenting thing in the issue thingy, use that to comment on my profile!
+
+<!-- stats by anuraghazra using the merko theme !-->
+<!-- https://github.com/anuraghazra/github-readme-stats !-->
+
+## stats
+https://github-readme-stats.vercel.app/api?username=JokeBambi&show_icons=true&theme=merko
+https://github-readme-stats.vercel.app/api/top-langs/?username=JokeBambi&layout=compact&show_icons=true&theme=merko
+
 <!-- useless stuff !-->
 
 
